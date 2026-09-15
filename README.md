@@ -1,86 +1,175 @@
-# ANDRIMIRARISOA Mihaja Christian | Développeur Web & Mobile Full-Stack
+# ANDRIMIRARISOA Mihaja Christian
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrimirarisoa-mihaja-christian/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/andrimirarisoamihaja-beep)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andrimirarisoamihaja@gmail.com)
-[![Téléphone](https://img.shields.io/badge/Tél-+261_34_89_769_49-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+261348976949)
-[![Adresse](https://img.shields.io/badge/Fianarantsoa-Madagascar-4285F4?style=flat&logo=googlemaps&logoColor=white)](#)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Développeur+Web+%26+Mobile+Full-Stack;Étudiant+en+Génie+Logiciel+%26+BDD;Passionné+par+l'IA+et+les+solutions+modernes" alt="Typing SVG" />
+</p>
 
-Étudiant en Licence Génie Logiciel & Base de Données à l'ENI (20 ans). Passionné par le Web, le Mobile et l'intégration d'IA.
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrimirarisoa-mihaja-christian/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/andrimirarisoamihaja-beep">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:andrimirarisoamihaja@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+261348976949">
+    <img src="https://img.shields.io/badge/Téléphone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Téléphone"/>
+  </a>
+</p>
 
----
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Technologies & Outils
-
-**Front / Mobile**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-**Back / IA / BDD**  
-![Node](https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat&logo=meta&logoColor=white)
-
-**Outils & SIG**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Kobo](https://img.shields.io/badge/Kobo-00A651?style=flat)
+<p align="center">
+  <b>Ambatomena, Fianarantsoa, Madagascar</b><br>
+  Étudiant en Licence Génie Logiciel & Base de Données à l'ENI (20 ans)
+</p>
 
 ---
 
-### Expérience & Hackathons
+<br>
 
-- **Stage Développeur – PAAEP JIRAMA** *(Sept-Déc 2025)*  
-  App web de suivi parcellaire (QGIS), numérisation MGP (KoboToolbox) et bases de données.
-- **Mega Event DevHunt (AEENI)** *(Juil 2026)*  
-  *Backend/Intégrateur* : App IA éducative en 24h (Llama, Express, Postgres).
-- **Hackathon Youth Computing** *(Mai 2026)*  
-  *Backend/Intégrateur* : App trafic routier temps réel (Leaflet, ML/ONNX, Postgres).
+## Profil
 
-    </td>
-    <td width="50%" valign="top">
+Étudiant passionné par le développement Web, Mobile et l'intégration d'IA.  
+Rigoureux et adaptable, je conçois des applications modernes, performantes et structurées.
 
-### Projets Académiques
-
-- **Mobile (2026) :** App de gestion contacts fournisseurs  
-  *(Android Studio, Java, SQLite)*
-- **Web (2025) :** App de gestion d'examens CEPE  
-  *(React.js, PHP, MySQL)*
-- **Desktop (2024) :** Logiciel de gestion hôtelière  
-  *(C++, Qt, MySQL)*
+<br>
 
 ---
 
-### Formation & Certifications
+<br>
 
-- **Licence GL & BDD** – École Nationale d'Informatique (2023–Prs)
-- **Full-Stack** – Orange Digital Center
-- **SIG / QGIS** – JEOTA
-- **Normes Sociales** – ITCILO
-- **Passation de marchés** – Formation spécialisée
+## Technologies & Outils
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<br>
+
+**Backend & IA**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_API-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<br>
+
+**Bases de données**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br>
+
+**Outils & SIG**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-00A651?style=for-the-badge)
+
+<br>
 
 ---
 
-### Langues & Soft Skills
+<br>
 
-- **Langues :** Malagasy (Maternelle), Français (B2), Anglais (Intermédiaire)
-- **Soft Skills :** Dynamique, Esprit d'équipe, Capacité d'adaptation
+## Expérience & Hackathons
 
-    </td>
-  </tr>
-</table>
+### Stage Développeur – PAAEP JIRAMA
+**Septembre – Décembre 2025**
+
+- Application web de suivi parcellaire et cartographie numérique sous QGIS  
+- Numérisation du formulaire MGP via KoboToolbox  
+- Modélisation de bases de données
+
+<br>
+
+### Mega Event DevHunt (AEENI)
+**Juillet 2026 · Backend & Intégrateur**
+
+- Plateforme d'assistance éducative IA développée en 24h  
+- Stack : Llama API, Express, PostgreSQL
+
+<br>
+
+### Hackathon Youth Computing
+**Mai 2026 · Backend & Intégrateur**
+
+- Application cartographique de trafic routier en temps réel  
+- Stack : Leaflet, ML/ONNX, PostgreSQL
+
+<br>
+
+---
+
+<br>
+
+## Projets Académiques
+
+| Type | Année | Projet | Technologies |
+|:-----|:------|:-------|:-------------|
+| **Mobile** | 2026 | Gestion de contacts fournisseurs | Java, SQLite, Android Studio |
+| **Web** | 2025 | Gestion d'examens CEPE | React, PHP, MySQL |
+| **Desktop** | 2024 | Logiciel de gestion hôtelière | C++, Qt, MySQL |
+
+<br>
+
+---
+
+<br>
+
+## Formation & Certifications
+
+**Licence Génie Logiciel & Base de Données**  
+École Nationale d'Informatique (ENI) — *2023 – Présent*
+
+<br>
+
+**Certifications**
+
+![Full-Stack](https://img.shields.io/badge/Full--Stack-Orange_Digital_Center-FF6600?style=for-the-badge&logo=orange&logoColor=white)
+![QGIS](https://img.shields.io/badge/SIG%2FQGIS-JEOTA-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![ITCILO](https://img.shields.io/badge/Normes_Sociales-ITCILO-003399?style=for-the-badge&logo=unitednations&logoColor=white)
+![Marchés](https://img.shields.io/badge/Passation_de_marchés-Formation-7D3C98?style=for-the-badge)
+
+<br>
+
+---
+
+<br>
+
+## Langues & Soft Skills
+
+**Langues**
+
+![Malagasy](https://img.shields.io/badge/Malagasy-Maternelle-2ECC71?style=for-the-badge)
+![Français](https://img.shields.io/badge/Français-B2-2ECC71?style=for-the-badge)
+![Anglais](https://img.shields.io/badge/Anglais-Intermédiaire-F1C40F?style=for-the-badge)
+
+<br>
+
+**Soft Skills**
+
+![Dynamique](https://img.shields.io/badge/Dynamique-3498DB?style=for-the-badge)
+![Esprit d'équipe](https://img.shields.io/badge/Esprit_d'équipe-3498DB?style=for-the-badge)
+![Adaptation](https://img.shields.io/badge/Capacité_d'adaptation-3498DB?style=for-the-badge)
+
+<br><br>
