@@ -58,24 +58,30 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![KoboToolbox](https://img.shields.io/badge/KoboToolbox-00A651?style=flat&logo=koboto&logoColor=white)
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-00A651?style=flat&logo=kobotoolbox&logoColor=white)
 
 ---
 
 ## ![Experience](https://img.shields.io/badge/-Expérience%20%26%20Hackathons-C0392B?style=for-the-badge&logo=briefcase&logoColor=white)
 
 ### ![Stage](https://img.shields.io/badge/-Stage-2ECC71?style=flat-square&logo=buildkite&logoColor=white) Stage Développeur – PAAEP JIRAMA
+
 **Sept – Déc 2025**
+
 - ![>](https://img.shields.io/badge/-→-lightgrey?style=flat) Application web de suivi parcellaire et cartographie numérique sous QGIS.
-- ![>](https://img.shields.io/badge/-→-lightgrey?style=flat) Numérisation du formulaire MGP via KoboToolbox & modélisation de bases de données.
+- ![>](https://img.shields.io/badge/-→-lightgrey?style=flat) Numérisation du formulaire MGP via KoboToolbox et modélisation de bases de données.
 
 ### ![Hackathon](https://img.shields.io/badge/-Hackathon-F39C12?style=flat-square&logo=hackthebox&logoColor=white) Mega Event DevHunt (AEENI)
+
 **Juil 2026 · Backend & Intégrateur**
-- ![>](https://img.shields.io/badge/-→-lightgrey?style=flat) Plateforme d'assistance éducative IA développée en 24h (Llama API, Express, PostgreSQL).
+
+- ![>](https://img.shields.io/badge/-→-lightgrey?style=flat) Plateforme d'assistance éducative IA développée en 24h avec Llama API, Express et PostgreSQL.
 
 ### ![Hackathon](https://img.shields.io/badge/-Hackathon-F39C12?style=flat-square&logo=hackthebox&logoColor=white) Hackathon Youth Computing
+
 **Mai 2026 · Backend & Intégrateur**
-- ![>](https://img.shields.io/badge/-→-lightgrey?style=flat) App cartographique de trafic routier en temps réel (Leaflet, ML/ONNX, PostgreSQL).
+
+- ![>](https://img.shields.io/badge/-→-lightgrey?style=flat) Application cartographique de trafic routier en temps réel avec Leaflet, ML/ONNX et PostgreSQL.
 
 ---
 
@@ -92,13 +98,18 @@
 ## ![Formation](https://img.shields.io/badge/-Formation%20%26%20Certifications-16A085?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 ![ENI](https://img.shields.io/badge/-Licence%20Génie%20Logiciel%20%26%20BDD-16A085?style=flat&logo=googlescholar&logoColor=white)
+
 **École Nationale d'Informatique (ENI)** — *2023 – Présent*
 
 **Certifications :**
 
 ![Orange](https://img.shields.io/badge/Full--Stack-FF6600?style=flat&logo=orange&logoColor=white) Orange Digital Center
+
 ![QGIS](https://img.shields.io/badge/SIG%2FQGIS-589632?style=flat&logo=qgis&logoColor=white) JEOTA
+
 ![ITCILO](https://img.shields.io/badge/Normes%20Sociales-003399?style=flat&logo=unitednations&logoColor=white) ITCILO
+
+![Marchés](https://img.shields.io/badge/Passation%20de%20marchés-7D3C98?style=flat&logo=googlescholar&logoColor=white) Formation en Passation de marchés
 
 ---
 
@@ -107,7 +118,9 @@
 **Langues**
 
 ![Malagasy](https://img.shields.io/badge/Malagasy-Maternelle-2ECC71?style=flat&logo=googletranslate&logoColor=white)
+
 ![Français](https://img.shields.io/badge/Français-B2-2ECC71?style=flat&logo=googletranslate&logoColor=white)
+
 ![Anglais](https://img.shields.io/badge/Anglais-Intermédiaire-F1C40F?style=flat&logo=googletranslate&logoColor=white)
 
 **Soft Skills**
