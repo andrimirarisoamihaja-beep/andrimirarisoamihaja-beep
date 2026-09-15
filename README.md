@@ -1,107 +1,71 @@
 # ANDRIMIRARISOA Mihaja Christian
+**Développeur Web & Mobile Full-Stack**
 
-**Stage en Développement Web & Mobile**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrimirarisoa-mihaja-christian/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/andrimirarisoamihaja-beep)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andrimirarisoamihaja@gmail.com)
 
----
-
-### Coordonnées
-
-- **Mail :** andrimirarisoamihaja@gmail.com
 - **Téléphone :** +261 34 89 769 49
 - **Adresse :** Ambatomena, Fianarantsoa, Madagascar
-- **Âge :** Septembre 2006 (20 ans)
-- **GitHub :** [github.com/andrimirarisoamihaja-beep](https://github.com/andrimirarisoamihaja-beep)
-- **LinkedIn :** [linkedin.com/in/andrimirarisoa-mihaja-christian](https://www.linkedin.com/in/andrimirarisoa-mihaja-christian/)
+- **Profil :** Étudiant en Licence Génie Logiciel & Base de Données à l'ENI (20 ans).
 
 ---
 
-### Synthèse professionnelle
+### Profil
 
-Étudiant en Licence Génie Logiciel et Base de Données à l'École Nationale d'Informatique (ENI), passionné par le développement Web & Mobile full-stack. Rigoureux et doté d'une forte capacité d'adaptation, je maîtrise la création d'applications web modernes et mobiles. Motivé à concevoir des solutions performantes et innovantes.
+Étudiant passionné par le développement Web, Mobile et l'intégration d'IA. Rigoureux et adaptable, je conçois des applications modernes, performantes et structurées.
 
 ---
 
-### Compétences techniques
+### Technologies & Outils
 
-- **Intégration de LLM :** LLM API (Gemini, Llama, OpenAI/GPT-oss-120b)
-- **Frontend & Mobile :** HTML5, CSS3, JavaScript, React, DaisyUI
-- **Backend & API :** Node.js, Express.js, Django, JSP
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- **Frontend & Mobile :** React, DaisyUI, HTML5/CSS3, JavaScript, Java (Android)
+- **Backend & IA :** Node.js, Express, Django, PHP, C++ (Qt), LLM APIs (Gemini, Llama, OpenAI)
 - **Bases de données :** PostgreSQL, MySQL, SQLite, MongoDB
-- **Outils & IDE :** Visual Studio Code, Android Studio, Git, GitHub, Postman
-- **UI/UX & Graphisme :** Figma, Canva, Adobe Photoshop
-- **Géomatique & Bureautique :** QGIS, Google Earth, Microsoft 365, Google Workspace
+- **Outils & SIG :** Git, Postman, QGIS, Figma, KoboToolbox
 
 ---
 
-### Expérience professionnelle
+### Expérience & Hackathons
 
-**Développement d'outils informatiques – Stage au PAAEP JIRAMA, Antananarivo**  
-*2 Septembre 2025 – 19 Décembre 2025*
+**Stage Développeur – PAAEP JIRAMA** *(Sept – Déc 2025)*
+- Application web de suivi parcellaire et cartographie numérique sous QGIS.
+- Numérisation du formulaire MGP via KoboToolbox & modélisation de bases de données.
 
-- Conception et développement d'une application web dédiée au suivi et à la gestion des états parcellaires.
-- Élaboration de cartographies thématiques des sites d'implémentation via l'outil QGIS.
-- Modélisation et structuration de bases de données pour l'optimisation des informations foncières.
-- Numérisation du Mécanisme de Gestion des Plaintes (MGP) par la création de formulaires intelligents sur KoboToolbox.
-- Sensibilisation aux enjeux sociaux et environnementaux liés aux projets d'infrastructure.
+**Mega Event DevHunt (AEENI)** *(Juil 2026)* — *Backend & Intégrateur*
+- Plateforme d'assistance éducative IA développée en 24h (Llama API, Express, PostgreSQL).
 
----
-
-### Concours d'innovation numérique & Hackathons
-
-**Mega Event DevHunt – Association des Élèves de l'École Nationale d'Informatique (AEENI)**  
-*25 Juillet 2026 – 26 Juillet 2026* | **Rôle : Intégrateur & Développeur Backend**
-- Création en 24h d’une plateforme d’assistance éducative intégrant l’IA générative.
-- Développement d’une interface conversationnelle basée sur Llama API avec ingénierie de prompt adaptée à différents niveaux d’utilisateurs.
-- Mise en place d’un backend avec Express et PostgreSQL pour l’authentification et la gestion de l’historique des interactions.
-
-**Hackathon Youth Computing – Projet cartographique et intelligence artificielle**  
-*14 Mai 2026 – 15 Mai 2026* | **Rôle : Intégrateur & Développeur Backend**
-- Visualisation de données géospatiales en temps réel avec Leaflet.
-- Intégration d’un modèle d’apprentissage automatique avec Python (ONNX) pour l’analyse du trafic routier.
-- Conception d’une base de données relationnelle avec PostgreSQL.
+**Hackathon Youth Computing** *(Mai 2026)* — *Backend & Intégrateur*
+- App cartographique de trafic routier en temps réel (Leaflet, ML/ONNX, PostgreSQL).
 
 ---
 
-### Projets académiques
+### Projets Académiques
 
-**Application mobile de gestion de contact fournisseurs** | *Juillet 2026*
-- Implémentation de la persistance des données locales avec SQLite.
-- Conception de l'interface et de la logique métier sous Android Studio avec Java.
-
-**Application web de Gestion d’examen CEPE** | *Mai 2025*
-- Développement d'une architecture découplée utilisant PHP et MySQL pour le Backend.
-- Création d'une interface utilisateur dynamique et réactive avec React.js.
-
-**Logiciel de gestion hôtelière (Desktop)** | *Septembre 2024*
-*École Nationale d'Informatique, Fianarantsoa*
-- Développement de l'interface graphique et de la logique applicative en C++ avec le framework Qt.
-- Modélisation et intégration d'une base de données relationnelle MySQL.
+- **Mobile (2026) :** Gestion de contacts fournisseurs (Android, Java, SQLite).
+- **Web (2025) :** Gestion d'examens CEPE (React, PHP, MySQL).
+- **Desktop (2024) :** Logiciel de gestion hôtelière (C++, Qt, MySQL).
 
 ---
 
-### Formation académique
+### Formation & Certifications
 
-**Licence en Génie Logiciel et Base de Données**  
-*École Nationale d'Informatique (ENI) | 2023 – Présent*  
-Parcours : Génie Logiciel et Base de données.  
-Formation axée sur le développement logiciel, le développement web Full-Stack, les solutions mobiles, la modélisation (UML, MERISE), ainsi que la gestion de projets et le droit du travail.
+- **Licence Génie Logiciel & BDD** – École Nationale d'Informatique (ENI) *(2023 – Présent)*
+- **Certifications :** Full-Stack (Orange Digital Center), SIG/QGIS (JEOTA), Normes Sociales (ITCILO).
 
 ---
 
-### Formations complémentaires et certifications
+### Langues & Atouts
 
-- **Formation en Développement Web Full-Stack Moderne** – Orange Digital Center Madagascar *(1 Juin 2025 – 5 Juin 2025)*  
-  Développement web Front-end et Back-end. Création d'applications web modernes avec les technologies actuelles.
-- **Formation en normes sociales pour un développement inclusif** – ITCILO *(26 Novembre 2025 – 3 Décembre 2025)*  
-  Analyse des dynamiques sociales et intégration des principes d'inclusion dans les projets de développement.
-- **Formation d’initiation en Système d’Information Géospatiale (SIG) et QGIS** – JEOTA *(25 Août 2025 – 27 Août 2025)*  
-  Manipulation et traitement de données géospatiales, cartographie numérique et gestion de couches sous QGIS.
-
----
-
-### Langues & Compétences personnelles
-
-- **Malagasy :** Langue maternelle
-- **Français :** Intermédiaire Avancé (B2)
-- **Anglais :** Intermédiaire
-- **Qualités :** Dynamique, esprit d’équipe, forte capacité d’adaptation
+- **Langues :** Malagasy (Maternelle), Français (B2), Anglais (Intermédiaire)
+- **Soft Skills :** Dynamique, Esprit d'équipe, Capacité d'adaptation
